@@ -1,0 +1,65 @@
+# Real data and protected outputs
+data/
+real-data/
+protected-data/
+vault/
+vault-data/
+outputs/
+results/
+figures/
+tables/
+logs/
+data_shape_report*.md
+
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+credentials*
+secrets*
+token*
+
+# Databases, data extracts, and archives
+*.sqlite
+*.sqlite3
+*.db
+*.duckdb
+*.parquet
+*.feather
+*.rds
+*.RData
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Notebooks, outputs, and caches
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local environments and editor files
+.venv/
+venv/
+env/
+.Rproj.user/
+.quarto/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
