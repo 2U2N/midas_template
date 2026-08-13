@@ -16,4 +16,4 @@ Describe the planned analysis at a high level.
 
 ## Sanitized Data Shape Report
 
-Paste selected excerpts from a reviewed vault-side data-shape report here. Remove anything that could be sensitiv.
+Paste selected excerpts from a reviewed vault-side data-shape report here. Remove anything that could be sensitive.
